@@ -1,2 +1,3 @@
 # Countdown-Timer
-This project is Javascript Project.
+https://asifrizwana12.github.io/Countdown-Timer/
+
